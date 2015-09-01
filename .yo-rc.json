@@ -1,0 +1,34 @@
+{
+  "generator-meltmail": {
+    "emails": [
+      "Liz <liz.heise@meltmedia.com>"
+    ],
+    "litmus": {
+      "litmus_clients": [
+        "appmail7",
+        "appmail8",
+        "chromegmailnew",
+        "gmailnew",
+        "ffgmailnew",
+        "androidgmailapp",
+        "ol2003",
+        "ol2007",
+        "ol2010",
+        "ol2011",
+        "ol2013",
+        "chromeoutlookcom",
+        "outlookcom",
+        "ffoutlookcom",
+        "chromeyahoo",
+        "yahoo",
+        "ffyahoo",
+        "ipad",
+        "ipadmini",
+        "iphone5s",
+        "iphone5sios8",
+        "iphone6plus",
+        "iphone6"
+      ]
+    }
+  }
+}
