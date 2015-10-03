@@ -1,0 +1,5 @@
+{
+  "in": "styles.css",
+  "out": "styles.fixed.css",
+  "browsers": ["last 3 versions", "Android 2.3"]
+}
